@@ -12,6 +12,7 @@
 - green onion
 - grated ginger
 - lime
+- much olive oil
 
 ## Instructions
 
