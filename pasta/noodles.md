@@ -1,12 +1,15 @@
 # Recipe name
-
+fried egg tomato noodles
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Ingredient eggs
+- Ingredient tomatos
+- Ingredient garlic
+- Ingredient soy sauce and salt
+- Ingredient noodles
 
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Step 1 scramble the eggs
+- Step 2 fry the tomatoes
